@@ -3,3 +3,8 @@ My first repository
 # My favorite movie 
 **Parasite**
 > A award winning movie from south Korea.
+> Parasite is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who co-wrote the screenplay with Han Jin-won and co-produced.
+> Genre:
+- Thiller
+- Comedy
+  
