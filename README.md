@@ -7,4 +7,4 @@ My first repository
 **Movie Genre:**
 - Thiller
 - Comedy
-- [Parasite]([https://www.example.com](https://en.wikipedia.org/wiki/Parasite_(2019_film))https://en.wikipedia.org/wiki/Parasite_(2019_film))
+[Parasite]([https://www.example.com](https://en.wikipedia.org/wiki/Parasite_(2019_film))https://en.wikipedia.org/wiki/Parasite_(2019_film))
